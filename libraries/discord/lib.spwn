@@ -1,1 +1,5 @@
-// nothing here yet
+let auth = import "auth.spwn"
+
+return {
+    auth
+}
